@@ -34,10 +34,10 @@ note = "\x23\x20\x4f\x62\x66\x75\x73\x63\x61\x74\x65\x64\x20\x77\x69\x74\x68\x20
 def banner():
     """Program Banner"""
     print(' ╔═════════════════════════════════╗\n'
-          ' ║          PyObfuscate                  ║\n'
-          ' ║  Simple Python Code Obfuscator        ║\n'
-          ' ║  Author: Tahmid Rayat                 ║\n'
-          ' ║  Github: HTR-TECH@GitHub              ║\n'
+          ' ║          PyObfuscate            ║\n'
+          ' ║  Simple Python Code Obfuscator  ║\n'
+          ' ║  Author: Tahmid Rayat           ║\n'
+          ' ║  Github: HTR-TECH@GitHub        ║\n'
           ' ╚═════════════════════════════════╝\n')
 
 
