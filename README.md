@@ -6,16 +6,15 @@
 [![Opensource](https://img.shields.io/badge/Open%20Source-Yes-green)](#)
 
 ### Supported Language:
-- **python 2.x**
 - **python 3.x**
 
 ### Installation :
 
 ```bash
-apt install git python -y
-git clone https://github.com/htr-tech/PyObfuscate.git
+apt install git python3 -y
+git clone https://github.com/AbirHasan2005/PyObfuscate.git
 cd PyObfuscate
-python encode.py
+python3 encode.py
 ```
 
 <br><a href="#"><img src="https://i.ibb.co/sjk6qz3/enc.png"></a><br>
